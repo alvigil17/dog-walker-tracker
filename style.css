@@ -1,0 +1,29 @@
+body
+{
+    background-color: #f5f5f5;
+}
+
+h1
+{
+    margin-bottom: 5px;
+}
+
+h2
+{
+    font-size: 24px;
+}
+
+.container
+{
+    max-width: 900px;
+}
+
+.card
+{
+    border-radius: 10px;
+}
+
+#walkList
+{
+    margin-top: 10px;
+}
